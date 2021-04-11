@@ -1,8 +1,8 @@
 # PAPA React JS Resume Starter Pack and Digital Portfolio
 
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+![Diogo P Pedro Portfolio Template](resume-screenshot.png?raw=true " Based on Papa React React JS course")
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
