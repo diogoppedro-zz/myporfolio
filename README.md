@@ -2,7 +2,7 @@
 
 ![Diogo P Pedro Portfolio Template](resume-screenshot.png?raw=true " Based on Papa React React JS course")
 
-### <a href="">LIVE DEMO</a>
+### <a href="https://diogoppedroportfolio.herokuapp.com/">LIVE DEMO</a>
 
 ## Resume Starter Pack Description
 
